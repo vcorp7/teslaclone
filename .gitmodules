@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"] 
+  path = ./src
+  url = git:https://github.com/vcorp7/teslaclone.git
